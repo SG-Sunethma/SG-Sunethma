@@ -14,3 +14,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sg-sunethma&show_icons=true&locale=en" alt="sg-sunethma" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sg-sunethma&" alt="sg-sunethma" /></p>
+
+[![An image of @sgsunethma's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/sgsunethma)](https://holopin.io/@sgsunethma)
